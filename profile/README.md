@@ -74,7 +74,9 @@
 
 ## 🎥 시연영상
 
-<video src="https://github.com/user-attachments/assets/f2ef7f7a-e943-47da-9dcc-d7bbb2aaca56" controls width="600"></video>
+<p align="center">
+  <video src="https://raw.githubusercontent.com/HSU-BeArchive/asserts/refs/heads/main/BeArchieve%20.mp4" controls width="600"></video>
+</p>
 
 ## 📚 기술 스택
 ### 프론트엔드
