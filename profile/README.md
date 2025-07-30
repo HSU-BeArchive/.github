@@ -74,6 +74,10 @@
 
 ## 🎥 시연영상
 
+
+https://github.com/user-attachments/assets/e2fb911c-8a8c-44d8-9121-e61d6a64811e
+
+
 <p align="center">
   <video src="https://raw.githubusercontent.com/HSU-BeArchive/assets/main/BeArchieve.mp4" controls width="600"></video>
 </p>
