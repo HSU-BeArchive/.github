@@ -75,7 +75,7 @@
 ## 🎥 시연영상
 
 <p align="center">
-  <video src="https://raw.githubusercontent.com/HSU-BeArchive/asserts/refs/heads/main/BeArchieve%20.mp4" controls width="600"></video>
+  <video src="https://raw.githubusercontent.com/HSU-BeArchive/assets/main/BeArchieve.mp4" controls width="600"></video>
 </p>
 
 ## 📚 기술 스택
