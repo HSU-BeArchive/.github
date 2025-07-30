@@ -38,24 +38,24 @@
 1. **레퍼런스 아카이빙:**
 -  주제별 폴더를 생성해 레퍼런스를 체계적으로 관리할 수 있습니다.
 
-<div align="center">
-  <img width="734" height="477" alt="Image" src="https://github.com/user-attachments/assets/ceb5391f-c05f-4537-86d8-d121501b2854" />
-</div>
+ <div align="center">
+     <img src="./images/reference.png" width="734" height="477" />
+   </div>
 
 
 2. **AI 기반 브레인스토밍:**
 -  텍스트·이미지 등 수집한 레퍼런스를 AI가 분석하고, 사고를 확장시키는 질문을 자동으로 생성해 창작의 막힘을 해소합니다.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0de9055d-f165-4f0b-977a-29a0f35703ae" width="400" />
-  <img src="https://github.com/user-attachments/assets/0cb577de-3eed-4ead-b11f-36e00e1e0fcb" width="400" />
-</div>
+     <img src="./images/brainstorm.png" width="400" />
+     <img src="./images/chatbot.png" width="400" />
+   </div>
 
 
 3. **사고 과정의 시각화:**
 - AI와의 대화 및 아이디어를 워드클라우드 형태로 시각화해 사고 과정을 한눈에 파악하고 정리할 수 있습니다.
-<div align="center">
-<img width="716" height="464" alt="Image" src="https://github.com/user-attachments/assets/c455955f-1937-4ec5-aa22-79551e5e0d64" />
-</div>
+   <div align="center">
+     <img src="./images/keyword.png" width="716" height="464" />
+   </div>
 
 ### 🏆프로젝트 목표
 ---
